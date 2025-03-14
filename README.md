@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Priya Peddi</h1>
 <h3 align="center">🔹 DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | SRE Practices</h3>
 
-- 🌱 Master’s in Information Systems & Technology | Passionate about DevOps, Cloud, and Automation | Expanding expertise in **cloud automation, CI/CD optimizations, and scalable infrastructure solutions.**
+ 🌱 Master’s in Information Systems & Technology | Passionate about DevOps, Cloud, and Automation | Expanding expertise in **cloud automation, CI/CD optimizations, and scalable infrastructure solutions.**
 
-- 📫 How to reach me **ak.priya.peddi@gmail.com**
+ 📫 How to reach me **ak.priya.peddi@gmail.com**
 
-- ⚡ Fun fact **I think I am funny 😊**
+⚡ Fun fact **I think I am funny 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
