@@ -1,17 +1,48 @@
 
 
-<h1 align="center">Hi 👋, I'm Akshara Priya Peddi</h1>
-<h3 align="center">🔹 Network security Engineer | AWS | Kubernetes | Terraform | CI/CD | SRE Practices</h3>
+<h1 align="center">Hi 👋, I'm Akshara Priya Kotha</h1>
+<h3 align="center">🔹 Network Security Engineer | AWS | Palo Alto | Terraform | Automation | Cloud Security</h3>
 
- 🌱 Master’s in Information Systems & Technology | Passionate about DevOps, Cloud, and Automation | Expanding expertise in **cloud automation, CI/CD optimizations, and scalable infrastructure solutions.**
+🌐 Experienced **Network Security Engineer** with 5+ years of hands-on experience securing enterprise and cloud networks.  
+💡 Skilled in **firewall engineering (Palo Alto, Fortinet, Cisco ASA, Check Point)**, **AWS networking**, and **infrastructure automation** using **Python** and **Terraform**.  
+🔒 Passionate about building **secure, scalable, and automated network infrastructures** to improve reliability and protect against modern cyber threats.  
+🚀 Currently enhancing enterprise network security at **PNC**, designing **next-generation firewall (NGFW)** architectures and **automating rule management** with Python & REST APIs.
 
- 📫 How to reach me **ak.priya.peddi26@gmail.com**
+📚 **Master’s in Information Systems & Technology** from *California State University, San Bernardino*  
+🎓 **Bachelor’s in Electronics & Communication Engineering** from *Jawaharlal Nehru Technological University, Hyderabad*  
 
-⚡ Fun fact **I think I am funny 😊**
+📫 **Reach me at:** aksharapriyakotha@gmail.com  
+🌍 **Location:** USA  
+💼 **Certification:** Palo Alto Networks Certified Network Security Administrator (PCNSA)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🧰 Technical Skills</h3>
+
+- **Networking:** LAN/WAN, VLAN, TCP/IP, DNS, DHCP, BGP, OSPF  
+- **Firewall Management:** Palo Alto, Fortinet, Cisco ASA, Check Point  
+- **Cloud Networking:** AWS VPC, Transit Gateway, Route 53, VPN, Direct Connect  
+- **Automation & Scripting:** Python, Bash, Terraform, Ansible  
+- **Monitoring & Tools:** Wireshark, SolarWinds, PRTG, Nagios, AWS CLI  
+- **Security:** IDS/IPS, VPN, NAC, SSL/TLS, Log Analysis  
+- **Operating Systems:** Ubuntu, Red Hat, CentOS  
+
+---
+
+<h3 align="left">📈 Experience Highlights</h3>
+
+- **PNC (Network Security Engineer)** – Designed & implemented Palo Alto NGFW solutions, automated firewall policies via Python & REST API, and strengthened AWS network security.  
+- **Inland Empire Health Plan (Network Support Engineer)** – Migrated Cisco ASA & Check Point firewalls to Palo Alto NGFW, integrated Layer 7 protection, and supported AWS VPC infrastructure.  
+- **Accenture (Associate Network Engineer)** – Managed centralized firewall configurations with Panorama, performed audits, and conducted security risk assessments.
+
+---
+
+<h3 align="left">🤝 Connect with me</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/a-priya-peddi-467132349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyapeddi" height="30" width="40" /></a>
+<a href="mailto:aksharapriyakotha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/aksharapriyakotha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aksharapriyakotha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
