@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Akshara Priya Peddi</h1>
-<h3 align="center">🔹 DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | SRE Practices</h3>
+<h3 align="center">🔹 Network security Engineer | AWS | Kubernetes | Terraform | CI/CD | SRE Practices</h3>
 
  🌱 Master’s in Information Systems & Technology | Passionate about DevOps, Cloud, and Automation | Expanding expertise in **cloud automation, CI/CD optimizations, and scalable infrastructure solutions.**
 
