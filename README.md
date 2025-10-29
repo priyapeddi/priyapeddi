@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Akshara Priya Kotha</h1>
-<h3 align="center">🔹 Network Security Engineer | AWS | Palo Alto | Terraform | Automation | Cloud Security</h3>
+<h3 align="center">🔹 Network Security Engineer | Palo Alto NGFW | AWS | Firewall & VPN | Python | PCNSA Certified</h3>
 
 🌐 Experienced **Network Security Engineer** with 5+ years of hands-on experience securing enterprise and cloud networks.  
-💡 Skilled in **firewall engineering (Palo Alto, Fortinet, Cisco ASA, Check Point)**, **AWS networking**, and **infrastructure automation** using **Python** and **Terraform**.  
+💡 Skilled in **firewall engineering (Palo Alto, Fortinet, Cisco ASA, Check Point)**, **AWS networking**, and **infrastructure automation** using **Python**.  
 🔒 Passionate about building **secure, scalable, and automated network infrastructures** to improve reliability and protect against modern cyber threats.  
 🚀 Currently enhancing enterprise network security at **PNC**, designing **next-generation firewall (NGFW)** architectures and **automating rule management** with Python & REST APIs.
 
